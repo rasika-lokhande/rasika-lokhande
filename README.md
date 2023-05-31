@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi I'm Rasika Lokhande! 👋
+
+🔭 My Projects 🔭
+* [Arduino-Based Tap Leak Detector](https://www.instructables.com/Arduino-Based-Tap-Leak-Detector/)
+
+📬Connect with Me📬:
+* [LinkedIn](https://www.linkedin.com/in/rasika-lokhande/)
+
+
 
 <!--
 **rasika-lokhande/rasika-lokhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
