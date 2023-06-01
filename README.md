@@ -1,6 +1,7 @@
 ### Hi I'm Rasika Lokhande! 👋
 
 🔭 My Projects 🔭
+* [Real time facial expression detection](https://github.com/rasika-lokhande/facial-emotion-recognizer)
 * [Arduino-Based Tap Leak Detector](https://www.instructables.com/Arduino-Based-Tap-Leak-Detector/)
 
 📬Connect with Me📬:
