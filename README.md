@@ -1,9 +1,6 @@
 ### Hi I'm Rasika Lokhande! 👋
 
-🔭 My Projects 🔭
 
-📬Connect with Me📬:
-* [LinkedIn](https://www.linkedin.com/in/rasika-lokhande/)
 
 
 
